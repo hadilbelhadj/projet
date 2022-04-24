@@ -1,0 +1,77 @@
+p
+   {
+    font-size: large;
+   }
+   .Foss p {
+       color: white;
+
+   }
+    .imagfb
+   {
+    height: 30px;
+    width:30px;
+   }
+   #imag
+   {
+          margin-left: 420px ;    
+   }
+   
+        .all
+        {
+            background-color:rgb(42,43,47);
+        }
+        .intro
+        {
+          background-color: #00AF8B;   
+            width: 1100px;
+            padding: 50px;
+            margin : 25px ;
+            border: 10px solid black;
+        }
+        .Foss
+        {
+            background-color: #00AF8B;
+            width: 1100px;
+            padding: 50px;
+            margin : 25px ;
+            border: 10px solid rgb(0,0,0);
+          
+        }
+        .linux
+        {
+            background-color: #00AF8B;
+        }
+        .depart
+        {
+            background-color: #00AF8B;
+            width: 1100px;
+            padding: 50px;
+            margin : 25px ;
+            border: 10px solid rgb(0,0,0);
+        }
+        .Links
+        {
+            background-color:whitesmoke;
+            width: 1100px;
+            border: 10px solid rgb(0,0,0);
+            padding: 50px;
+            margin : 25px ;
+        }
+        a
+        {
+            color: #2F4F4F;
+            text-decoration: none;
+        }
+        .dep
+        {
+background-color:#00AF8B;
+
+        }
+        td ul
+        {
+            color: white;
+        }
+        td img ,a
+        {
+            margin-left: 420px ;
+        }

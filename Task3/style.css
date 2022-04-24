@@ -1,0 +1,204 @@
+.boutton
+{
+  background-color:white;
+  font-size: 20px;
+  height: 50px;
+  align-items: center;
+  text-decoration: none; 
+}
+.button
+{
+  background-color:#FF00FF;
+  font-size: 20px;
+  height: 50px;
+  align-items: center;
+  text-decoration: none;
+}
+header
+{
+background-color:#1E64F0;
+ padding-top: 30px;
+ min-height: 70px;
+}
+header a 
+{
+  font-size: 20px;
+color:white;
+text-decoration: none;
+font-family: arial;  
+}
+header li
+{
+  float: center;
+  display :inline;
+  padding: 0 20px 0 20px;
+  color: white;
+}
+header nav
+{
+  float: left; 
+  margin-top: 10px;
+}
+header #login{
+  float: right;
+}
+.div1
+{
+  background: #1E64F0;
+  padding: 80px;
+  color: white;
+  font-family: arial;
+}
+.vd {
+  width:100%;
+  display: flex;
+  flex-direction: right;
+  flex-flow:wrap;
+  justify-content: right;
+
+}
+.new 
+{
+ background-color: #94EF66;
+  color: black;
+  padding: 50px;
+  font-size: 30px;
+  font-weight: normal;
+  line-height: 1.5;
+}
+.platform {
+  background-color: white;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+  justify-content: center;
+  padding: 50px 0 0 50px;
+  }
+.div3 {
+  margin:2px;
+  display: flex;
+  padding :50px 0 0 50px ;
+  align-items: center; 
+}
+.sousbloc h2{
+  font-family: Arial;
+  font-weight: normal;
+}
+.sousbloc p
+ {
+  font-family: Arial;
+  font-weight: normal;
+}
+.block {
+  width:30%;
+  padding:10px;
+  margin-bottom: 18px
+}
+.intercom
+{
+  margin : 100px;
+  padding: 10px;
+}
+.text{
+  align-items: center; 
+  font-family: Arial;
+  font-size: 35px; 
+}
+.phil {
+  display: flex;
+  justify-content: center;
+}
+.img{
+  display: flex;
+  justify-content: center;
+}
+.business h2
+{
+  font-family: Arial;
+}
+.business 
+{
+   align-items: center; 
+   padding: 50px;
+  justify-content: center;
+}
+.div4 h2{
+  font-family: Arial;
+  font-size: 30px ;
+  width:50%;
+  margin:30px 0px 0px 300px;
+  text-align: center;
+  
+}
+.bloc{
+  display: flex;
+  justify-content:space-around;
+  align-items: flex-start;
+}
+
+.ssbloc{
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  width:28%;
+  height: 20%;
+}
+.imag{
+  
+ 
+  text-decoration: underline;
+  width:30%;
+}
+.get{
+  background-color: #1E64F0;
+  width: auto;
+  justify-content: center;
+  align-items: center;
+  margin :100px 0px 0px 0px;
+  color: white
+}
+.ready{
+  display :flex;
+  flex-direction: column;
+  text-align: center;
+ 
+}
+.ready li {
+  float: center;
+  display :inline;
+}
+.ready li a{
+  text-decoration: none;
+}
+.links{
+  background-color:  #1F1F22;
+}
+.txt h2 {
+  font-family: Arial;
+  color: white;
+  text-align:left;
+}
+
+.ssbloc h4{
+  color: gray;
+  font-family: arial;
+}
+.list
+{
+  color: white;
+  font-family: arial;
+  text-decoration: none;
+  line-height: 1.5;
+}
+.list a {
+  color:#FF0099;
+  text-decoration: none;
+}
+footer{
+  color: gray;
+  text-align: center;
+  font-family: arial;
+  padding: 50px;
+}
+
